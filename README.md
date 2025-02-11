@@ -18,6 +18,4 @@ This portfolio website is a personal project that highlights:
 
 - **Frontend**: HTML, CSS, JavaScript (Tailwind, Bootstrap)
 - **Backend**: PHP 
-- **Version Control**: Git & GitHub
 
-⭐ **If you like this project, consider giving it a star!** ⭐
